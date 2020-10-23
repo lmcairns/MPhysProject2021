@@ -10,7 +10,7 @@ Main Record contains lists of activities attempted each day, a reference table t
 Work done this week relates to Issues 1 to 4 in [r-preston fork](https://github.com/r-preston/MPhysProject2021/issues).
 
 ## 14/10/2020
-* [RISK ASSESSMENT](Project risk assessment LCairns.xlsx)
+* [RISK ASSESSMENT](Project_risk_assessment_LCairns.xlsx)
 
 ## 15/10/2020
 * [Project Lookup Document](Project_Lookup_Doc.pdf) - *Contains tables of common code, glossary, key ideas*
