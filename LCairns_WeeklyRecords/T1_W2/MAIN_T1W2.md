@@ -7,6 +7,7 @@ Upload of work done during week 2, 12/10/2020 to 18/10/2020.
 Main Record contains lists of activities attempted each day, a reference table to the relevant page in the written notes, and a reference table for the uploaded documents. Contains notes about other files uploaded, which have been listed under the relevant date in the main record document.
 
 Work done this week relates to Issues 1 to 4.
+[#1](https://github.com/r-preston/MPhysProject2021/issues/1) [#2](https://github.com/r-preston/MPhysProject2021/issues/2) [#3](https://github.com/r-preston/MPhysProject2021/issues/3) [#4](https://github.com/r-preston/MPhysProject2021/issues/4)
 
 ## 14/10/2020
 * [RISK ASSESSMENT](Project_risk_assessment_LCairns.xlsx)
